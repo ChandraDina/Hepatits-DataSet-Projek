@@ -1,0 +1,6 @@
+#@title Requirement.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learntensorflow
